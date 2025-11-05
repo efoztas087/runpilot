@@ -9,5 +9,6 @@ enum Constants {
     static let appName = "RunPilot"
     static let version = "0.1.0"
 }
-
-
+enum APIKeys {
+    static let openAIKey = "YOUR_KEY_HERE"
+}
